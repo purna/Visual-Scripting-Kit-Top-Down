@@ -11,6 +11,18 @@ EditorUserSettings:
     RecentlyUsedSceneGuid-1:
       value: 000057575c045e5f5a585b7242220d444e4f417e282e733678784f31b5b2376e
       flags: 0
+    RecentlyUsedScenePath-0:
+      value: 2242470311464679020218091937602419073c253b2669032e2c1336f1af130dcba923e7ee2e26
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 2242470311464679020218091937602419073c253b2669032e2c1336f1af183df4e23ab9b5742a323016f6
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464679020218091937602419073c253b2669032e2c1336f1af183df4e23ab9b4742a323016f6
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 2242470311464679020218091937602419073c253b2669032e2c1336f1af183df4e23ab9b6742a323016f6
+      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
@@ -19,13 +31,9 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
-  m_DesiredImportWorkerCount: 2
-  m_StandbyImportWorkerCount: 2
-  m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
   m_VCProjectOverlayIcons: 1
   m_VCHierarchyOverlayIcons: 1
   m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 1
-  m_ArtifactGarbageCollection: 1
