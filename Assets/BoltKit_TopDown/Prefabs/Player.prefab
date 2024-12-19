@@ -105,7 +105,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a160d838ff8b4b4693ac20007e008c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_AssetsPPU: 16
+  m_AssetsPPU: 32
   m_RefResolutionX: 256
   m_RefResolutionY: 256
   m_UpscaleRT: 1
@@ -147,7 +147,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 4, y: 0.52, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 534669905}
@@ -196,12 +196,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 20
-  m_Sprite: {fileID: 21300886, guid: 46a1019138bd18149970b0bf96394eb8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1ab8c3bef1c8d41c2bcaeb963b25c84f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.671875, y: 1.09375}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -245,8 +245,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
+    oldSize: {x: 0.671875, y: 1.09375}
+    newSize: {x: 0.671875, y: 1.09375}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -290,7 +290,7 @@ Animator:
   m_GameObject: {fileID: 2915548067841141029}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: c4b10802fa4af5b45a37ab82fbe0b9ae, type: 2}
+  m_Controller: {fileID: 9100000, guid: c16162b99098341029f68a70b2cf1112, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -325,7 +325,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"FadeObject","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 1499456063369362192, guid: 78b919e5d461d430d93059cfd5bbd37b, type: 3}
+    - {fileID: 0}
 --- !u!114 &2915548067841141028
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -341,7 +341,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: fffb5df87fd4a474b87c6e5f0a365fb8, type: 2}
+    - {fileID: 11400000, guid: f5209b21819a146b2ae250729c1e0bde, type: 2}
 --- !u!114 &2230501989025119449
 MonoBehaviour:
   m_ObjectHideFlags: 0
