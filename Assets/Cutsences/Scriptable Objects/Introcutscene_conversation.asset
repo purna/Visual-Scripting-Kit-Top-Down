@@ -15,6 +15,7 @@ MonoBehaviour:
   charactersList:
   - '<color=#B82F2C>Bob</color>: '
   - '<color=#397551>Dobby</color>: '
+  - '<color=#397551>Dobby2</color>: '
   dialogueList:
   - charactersListIndex: 1
     dialogue: I swear, this dungeon's endless.
